@@ -18,7 +18,7 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/aluracards.git
+   git clone https://github.com/Lukz1n/aluracards.git
 
 2. Acesse o diretório do projeto:
    ```bash
